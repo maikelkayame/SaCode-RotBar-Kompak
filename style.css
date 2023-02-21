@@ -3774,13 +3774,14 @@ ul.listing-style.modify li:before {
   color: #ffffff;
 }
 .full-width-header.home8-style4.home9 .right_menu_togle .close-btn #nav-close {
-  background: #f4bf00;
+  background: #f0f0f0;
+
 }
 .full-width-header.home8-style4.home9 .right_menu_togle .sidebarnav_menu li a:hover {
-  color: #f4bf00;
+  color: #ffffff;
 }
 .full-width-header.home8-style4.home9 .right_menu_togle .canvas-contact .social li a:hover {
-  color: #f4bf00;
+  color:#f0f0f0;
 }
 .full-width-header.home8-style4.home13 .menu-area .rs-menu-area {
   justify-content: flex-end;
@@ -7562,12 +7563,29 @@ body .modal-backdrop {
   width: 80px;
   height: 80px;
 }
-.rs-features.style2 .text-area .icon-title {
-  text-align-last:center;
+.rs-features.style2 .text-area .icon-title  {
+  
   font-size: 20px;
   color: #000;
+}
+.rs-features.style2 .menu{
+  text-align:center;
+  padding-left:15%;
+  padding-right:15%;
+  
+
   
 }
+
+.rs-features.style2 .menu .col-lg-3 {
+  text-align:left;
+  padding-left:8%;
+  
+  
+ 
+}
+
+
 .rs-features.style2 .rs-iconbox-area:hover {
   transform: translateY(-10px);
 }
